@@ -2,7 +2,6 @@
 - 👀 I’m interested in Front end development and ai
 - 🌱 I’m currently learning Machine learning,Deep learning,html,css,javascript.
 - 📫 How to reach me muhammedvp0707@gmail.com
-- ⚡ Fun fact: ...    
 
 <!---
 mhd-boombang/mhd-boombang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
